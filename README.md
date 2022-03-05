@@ -1,2 +1,2 @@
 # roboticalego
-Repositório com programas fritos para construções  no Lego.
+Repositório com programas feitos para construções  no Lego.
