@@ -8,3 +8,4 @@ Spike Prime:
 
 - Introdução: projetos da guia introdução do aplicativo de programação do Spike. Tutoriais sobre matriz de luz, motor e sensores.
 - Esquadrão da invenção: aplicando o processo de design da engenharia. Projetos do aplicativo Spike.
+- Comece seu próprio negócio: desenvolvendo habilidades de pensamento computacional. Projetos do aplicativo Spike.
