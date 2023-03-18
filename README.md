@@ -1,4 +1,4 @@
-# roboticalego
+# Robótica lego
 Repositório com programas feitos para construções  no Lego.
 
 Spike Prime:
@@ -12,3 +12,7 @@ Spike Prime:
 - Hacks da vida: projetos do aplicativo spike.
 - Treinamento Dhel: projetos do treinamento da empresa Dhel.
 - Outros: projetos da internet e outros.
+
+EV3:
+
+- Kit 
